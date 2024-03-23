@@ -13,4 +13,4 @@
 💻 Author/Main Developer: Rimuru Tempest aka RimuruDev [Telegram](https://t.me/AbyssMothGames) | [GitHub](https://github.com/RimuruDev)
 
 Contrebuters:
-- [Roma Yermolin](https://t.me/ReRoma7) - Fixed localization for Ukrainian language.
+- [Roma Yermolin](https://t.me/ReRoma7) - Fixed localization for Ukrainian language. [Discord](https://discord.com/invite/DCzbWz4Bdn)
