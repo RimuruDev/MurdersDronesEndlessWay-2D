@@ -23,4 +23,8 @@ Contrebuters:
 - [Roma Yermolin](https://t.me/ReRoma7) - Fixed localization for Ukrainian language. [Discord](https://discord.com/invite/DCzbWz4Bdn)
 - AlexScience: Helped build for iOS
 
+Beta testers:
+- FoxCacke
+- Perona Tempest
+  
 ---
