@@ -10,7 +10,6 @@
 
 ❤️ YandexGame: https://yandex.com/games/app/232955?lang=en
 
-
 ---
 
 ✨ Art Director: ExploitDev [Telegram](https://t.me/this_is_ilono_duck) | [GitHub](https://github.com/Arseniy-eg)
